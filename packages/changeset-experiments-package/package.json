@@ -1,10 +1,10 @@
 {
   "name": "changeset-experiments-package",
   "version": "0.0.0",
-  "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "prepublish": "pnpm build",
     "build": "tsc --noEmit && tsup-node",
     "format": "rome format --write .",
     "lint": "rome check .",
