@@ -7,7 +7,7 @@
     "precommit": "pnpm install",
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky install",
-    "release": "pnpm publish -r --access=public --no-git-checks",
+    "release": "pnpm changeset release",
     "test": "turbo run test",
     "test:ci": "turbo run test:ci"
   },

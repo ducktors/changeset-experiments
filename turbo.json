@@ -9,6 +9,13 @@
         "^build"
       ]
     },
+    "release": {
+      "outputs": [],
+      "cache": false,
+      "dependsOn": [
+        "^build"
+      ]
+    },
     "dev": {
       "outputs": [],
       "cache": false,
