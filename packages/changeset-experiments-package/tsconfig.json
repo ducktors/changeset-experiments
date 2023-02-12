@@ -1,0 +1,9 @@
+{
+  "extends": "@ducktors/tsconfig",
+  "compilerOptions": {
+    "declaration": false,
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
