@@ -1,1 +1,1 @@
-console.log(`Lib scaffolded by Crane. Put your code in ${__dirname}.`)
+console.log(`A Lib in ${__dirname}.`)
