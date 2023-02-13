@@ -1,1 +1,1 @@
-console.log(`App ${__dirname}.`)
+console.log(`App asokdasokdaok ${__dirname}.`)
