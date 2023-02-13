@@ -1,5 +1,11 @@
 # changeset-experiments-app
 
+## 1.0.0
+
+### Major Changes
+
+- 365cff4: add new parser to the lib
+
 ## 0.2.0
 
 ### Minor Changes

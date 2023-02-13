@@ -1,5 +1,15 @@
 # @ducktors/changeset-experiments-package
 
+## 1.0.0
+
+### Major Changes
+
+- 9ebd20e: asdasd
+
+### Minor Changes
+
+- b2d4002: add new parser to the lib
+
 ## 0.2.1
 
 ### Patch Changes
