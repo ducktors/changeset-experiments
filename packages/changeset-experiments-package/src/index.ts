@@ -1,1 +1,1 @@
-console.log(`A Lib in ${__dirname}. I added a new feature`)
+console.log(`A Lib in ${__dirname}. I added`)
